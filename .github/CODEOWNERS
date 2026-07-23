@@ -1,6 +1,6 @@
 # CODEOWNERS for automated reviewer assignment
 # This applies a default owner for all files in the repository.
-* @hellopratyus
+* @pratyusbharimalla
 
 # Optional examples (uncomment if you want path-based ownership):
 # /README.md @hellopratyus
